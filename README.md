@@ -4,7 +4,7 @@
 The **Voting Rewards** smart contract allows users to vote for predefined candidates and rewards them with tokens as an incentive. This contract is deployed on the **Edu Chain** network.
 
 ## Features
-- Users can vote for one of the predefined candidates.
+- Users can vote for one of the predefined ndidates.
 - Voters receive a fixed number of tokens as a reward.
 - Prevents double voting by tracking voter participation.
 - Maintains a record of votes for each candidate.
